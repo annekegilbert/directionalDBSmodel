@@ -1,6 +1,6 @@
-% vizualize the potential field for all 15 models 
-% model numbers are based on tabel 1
-% each model .txt file contains x,y,z cooordinates and corresponding potential (V)
+% visualize the potential field for all 15 models 
+% model numbers are based on table 1
+% each model .txt file contains x,y,z coordinates and corresponding potential (V)
 
 % select model number
 model_number = 1;
